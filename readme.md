@@ -80,7 +80,12 @@ Ce projet vise à exploiter des données de navigation utilisateur pour comprend
 - Absence de données temporelles.
 - Pas d’information sur le contenu des pages visitées.
 
-## 7. Organisation du projet
+## 7. Installations des librairies Python
+```text
+python -m pip install -r requirements.txt
+```
+
+## 8. Organisation du projet
 
 ```text
 .
